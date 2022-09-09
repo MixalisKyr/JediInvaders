@@ -1,4 +1,4 @@
 # JediInvaders
 A two Player game made for a project in uni
 
-Open the zip file and run the .exe program into the bin folder
+Inside the rar file you will find the assets of the game like sounds,images and dll files necessary to run the game
